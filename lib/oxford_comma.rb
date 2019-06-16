@@ -8,4 +8,7 @@ end
 
 def oxford_comma(array)
   array.map do |array|
-    
+    array.push(",")
+  end
+  return array.join
+end
