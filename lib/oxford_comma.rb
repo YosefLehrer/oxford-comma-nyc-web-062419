@@ -7,5 +7,5 @@ def oxford_comma(array)
 end
 
 def oxford_comma(array)
-  new_array = ["kiwi, durian, and starfruit"]
+  new_array = []
 end
